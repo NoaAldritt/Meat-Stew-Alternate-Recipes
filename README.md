@@ -14,7 +14,9 @@ The final file path should have the ModInfo.xml located at:
 and the included Config folder in the same location.
 
 EG:
-...\Mods\Meat-Stew-Alternate-Recipes
-	     ...\config
-		      ...\recipes.xml
-	      \ModInfo.xml
+
+	...\Meat-Stew-Alternate-Recipes
+	     \ModInfo.xml
+		\config
+		   \recipes.xml
+
