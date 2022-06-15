@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<xml>
+		<ModInfo>
+			<Name value="Meat Stew Alternate Recipe Modlet"/>
+			<Description value="Example recipe additions, making Meat Stew craftable using various protein items."/>
+			<Author value="Shurenai"/>
+			<Version value="1.0"/>
+			<Website value=""/>
+		</ModInfo>
+	</xml>
