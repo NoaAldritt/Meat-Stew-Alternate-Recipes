@@ -1,4 +1,4 @@
-# Meat-Stew-Alternate-Recipes
+# Meat Stew Alternate Recipes
 This is my first mod, and this readme is just something I threw together. Hope it makes sense.
 
 Example recipe additions, making Meat Stew craftable using various protein items.
